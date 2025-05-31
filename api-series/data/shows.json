@@ -1,0 +1,27 @@
+[{
+        "id": 3,
+        "poster": "./posters/3.jpg",
+        "titulo": "The Mandalorian",
+        "categoria": "Serie",
+        "genero": "Sci-Fi, Fantasía, Acción",
+        "gen": "Ciencia Ficción",
+        "busqueda": "The Mandalorian, Sci-Fi, Fantasía, Suspenso, Pedro Pascal, ...",
+        "resumen": "Ambientada tras la caída del Imperio y antes de la aparición...",
+        "temporadas": 2,
+        "reparto": "Pedro Pascal, Carl Weathers,...",
+        "trailer": "https://www.youtube.com/embed/aOC8E8z_ifw"
+    },
+    {
+        "id": 4,
+        "poster": "./posters/4.jpg",
+        "titulo": "The Umbrella Academy",
+        "categoria": "Serie",
+        "gen": "Ciencia Ficción",
+        "genero": "Sci-Fi, Fantasía, Drama",
+        "busqueda": "The Umbrella Academy, Sci-Fi, Fantasía, Drama, Tom Hopper,...",
+        "resumen": "La muerte de su padre reúne a unos hermanos distanciados...",
+        "temporadas": 1,
+        "reparto": "Tom Hopper, David Castañeda,...",
+        "trailer": "https://www.youtube.com/embed/KHucKOK-Vik"
+    }
+]
